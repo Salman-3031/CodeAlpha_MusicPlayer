@@ -8,11 +8,3 @@ const App = () => {
 }
 
 export default App
-
-
-
-// function App() {
-//   return <MusicPlayer />;
-// }
-
-// export default App;
