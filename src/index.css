@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: Ubantu;
+  src: url('./assets/fonts/Ubuntu-Medium.ttf') format("truetype");
+  font-display: swap;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: #020617;
+  font-family: sans-serif;
+}
